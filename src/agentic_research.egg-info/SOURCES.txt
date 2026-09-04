@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/agentic_research.egg-info/PKG-INFO
+src/agentic_research.egg-info/SOURCES.txt
+src/agentic_research.egg-info/dependency_links.txt
+src/agentic_research.egg-info/top_level.txt
+src/agentic_research/models/base.py
+src/agentic_research/models/ollama.py
